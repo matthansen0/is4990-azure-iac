@@ -1,2 +1,54 @@
-# is4990-azure-iac
-Notes on Azure IAC for IS 4990
+# IS4990 Azure Infrastructure as Code Repository
+This repository contains notes and links about Infrastructure as Code for Azure. 
+
+## Overview
+
+- What is DevOps (the process, not the tool)?
+https://docs.microsoft.com/en-us/devops/what-is-devops
+
+- What is IaC? 
+https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
+
+- Automation Infrastructure, why it's important - Well Architected:
+ https://docs.microsoft.com/en-us/azure/architecture/framework/devops/automation-infrastructure
+ 
+## Infrastructure as Code Options
+
+### Deployment Template Languages
+- ARM Templates: 
+  - https://techcommunity.microsoft.com/t5/azure-developer-community-blog/iac-on-azure-how-to-get-started-with-arm-template/ba-p/336481
+  - https://github.com/Azure/azure-quickstart-templates
+  - https://github.com/matthansen0/azure-gatesentry-proxy
+  - https://github.com/matthansen0/azure-dnslb
+
+- Azure Bicep
+  - https://techcommunity.microsoft.com/t5/itops-talk-blog/getting-started-with-azure-bicep/ba-p/3064214
+  - https://github.com/Azure/azure-docs-bicep-samples
+  - https://adamtheautomator.com/azure-bicep/
+
+### Tools
+- AzCLI
+http://www.donovanbrown.com/post/Using-the-Azure-CLI-for-IaC
+
+- Azure Powershell
+https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-7.4.0
+
+
+### Deployment Engines
+
+- Azure DevOps Pipelines
+https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops
+
+- Github Actions
+https://docs.microsoft.com/en-us/azure/developer/github/github-actions
+
+### Third Party Tools
+
+- Terraform
+https://docs.microsoft.com/en-us/azure/developer/terraform/overview
+
+- Ansible, CHEF, & others
+
+
+
+
