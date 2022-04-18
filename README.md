@@ -20,6 +20,7 @@ https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code
   - https://github.com/Azure/azure-quickstart-templates
   - https://github.com/matthansen0/azure-gatesentry-proxy
   - https://github.com/matthansen0/azure-dnslb
+  - https://github.com/matthansen0/azure-openemr
   - https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/
 
 - Azure Bicep
