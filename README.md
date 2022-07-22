@@ -1,5 +1,5 @@
 # IS4990 Azure Infrastructure as Code Repository
-This repository contains notes and links about Infrastructure as Code for Azure. 
+This repository contains notes and links about Azure Infrastructure as Code for Professor Hansen's IS4990 Class, Cloud Computing Technologies. 
 
 ## Overview
 
